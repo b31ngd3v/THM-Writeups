@@ -152,7 +152,7 @@ Now run the `clickjacking-tester.py` file as b31ngd3v
 
 ![alt text](https://github.com/b31ngD3v/THM-Writeups/blob/main/images/Screenshot%20at%202021-07-03%2001-00-34.png?raw=true "user.txt")
 
-Now we'll check if sudo is vulnerable or not. (I'm taking about CVE-2019-14287)
+Now we'll check if sudo is vulnerable or not. (I'm talking about CVE-2019-14287)
 
 ![alt text](https://github.com/b31ngD3v/THM-Writeups/blob/main/images/Screenshot%20at%202021-07-03%2001-56-29.png?raw=true "CVE-2019-14287 check")
 
