@@ -22,8 +22,8 @@ Make sure -
 ## Enumeration
 > Q : Scan the machine, how many ports are open?
 
-Open up your terminal and fire up nmap. Run nmap with -
-```nmap -sC -sV -oA nmap/ss 10.10.226.130```
+Open up your terminal and fire up nmap. Run nmap with ```nmap -sC -sV -oA nmap/ss 10.10.226.130```
+![alt text](https://github.com/b31ngD3v/THM-Writeups/blob/main/image.png?raw=true "nmap result")
 
 ## Flag
 ```
