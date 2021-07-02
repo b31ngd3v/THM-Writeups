@@ -63,11 +63,11 @@ Now we are logged in as chief. Let's check what permissions we have with ```sudo
 
 ![alt text](https://github.com/b31ngD3v/THM-Writeups/blob/main/images/Screenshot%20at%202021-07-03%2000-56-04.png?raw=true "permissions")
 
-Note. (ALL, !root) this looks suspicious, there is a chance that sudo is vulnerable. We'll check it soon.
+Note. (ALL, !root) this looks suspicious, there is a chance that sudo is vulnerable. We'll check it later.
 
 ![alt text](https://github.com/b31ngD3v/THM-Writeups/blob/main/images/Screenshot%20at%202021-07-03%2001-28-51.png?raw=true "users")
 
-Sibyl System has two users, chief and b31ngd3v. Let's check if we somthing in the home directory of this user.
+Sibyl System has two users, chief and b31ngd3v. Let's check if there is somthing in the home directory of this user.
 
 ![alt text](https://github.com/b31ngD3v/THM-Writeups/blob/main/images/Screenshot%20at%202021-07-03%2000-55-24.png?raw=true "home")
 
