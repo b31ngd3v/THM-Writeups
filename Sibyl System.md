@@ -16,7 +16,7 @@ If you face any problem, contact [b31ngd3v](mailto:b31ngd3v@gmail.com)
 Make sure -
 1. You're connected to the vpn. **```(Important)```**
 2. Your adblocker is disabled. [uBlock Origin, adblocker etc.] **```(Important)``` (or the site will not load.)**
-3. You're using Chrome browser. **```(Highly Recommended)``` (for better experience)**
+3. You're using Chrome browser. **```(Recommended)``` (for better experience)**
 
 
 ## Enumeration
